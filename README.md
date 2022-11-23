@@ -40,4 +40,6 @@ senaryosu. (http://generator.swagger.io)
 ## 4. Hata Raporlama
 
 ---
+[Go To The Report](https://github.com/yusufaktog/ebebek-patika.dev-qa-homework/blob/master/src/test/TestReport.md)
+
 -  E-Bebek web sitesi ya da mobil uygulamasında en az 2 adet hata bularak standartlara uygun bir şekilde raporlayınız.

@@ -1,4 +1,4 @@
-### Error Encountered
+### Errors Encountered
 
 ---
 

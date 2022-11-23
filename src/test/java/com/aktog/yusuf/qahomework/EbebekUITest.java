@@ -1,17 +1,12 @@
 package com.aktog.yusuf.qahomework;
 
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.springframework.boot.WebApplicationType;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.testng.Assert;
 
 import java.time.Duration;
 
