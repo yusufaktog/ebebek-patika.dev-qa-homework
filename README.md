@@ -4,11 +4,15 @@
 
 #### Sepet sayfasındaki işlemler için işlevsel test senaryoları geliştiriniz.
 
+[Go To The Source Code](https://github.com/yusufaktog/ebebek-patika.dev-qa-homework/blob/master/src/test/java/com/aktog/yusuf/qahomework/TestScenarios.feature)
 
 
 ## 2. Test Otomasyonu (UI)
 
 ---
+
+[Go To The Source Code](https://github.com/yusufaktog/ebebek-patika.dev-qa-homework/blob/master/src/test/java/com/aktog/yusuf/qahomework/EbebekUITest.java)
+
 
 - Ana sayfa açılır. (www.e-bebek.com)
 - Arama çubuğuna "biberon" yazılır.
@@ -22,6 +26,8 @@
 ## 3. Test Otomasyonu – API
 
 ---
+[Go To The Source Code](https://github.com/yusufaktog/ebebek-patika.dev-qa-homework/blob/master/src/test/java/com/aktog/yusuf/qahomework/SwaggerApiTest.java)
+
 
 #### API isteği sonucunun (HTTP Status Code) kontrolünü gerçekleştiren 
 
